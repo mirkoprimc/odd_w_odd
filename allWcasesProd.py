@@ -13,7 +13,7 @@ colored partitions of n <= N on the array Nw of w rows of natural
 numbers, with even numbers in the top row.
 ---
 We input by hand p and k1,k2,...,kw as the list 'highest_weight' on 
-lines 75 and 76. The result is a list 'result' of pairs [n,P(n)].
+lines 76 and 77. The result is a list 'result' of pairs [n,P(n)].
 ---
 In the second part of the code Euler's factoring algorithm is applied
 to determine the conjectured infinite periodic product with the period 
